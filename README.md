@@ -19,6 +19,14 @@ The project covers port scanning, enumeration,application idetification, vulnera
 <h2>Program walk-through: Reconnaissance(Phase 1):</h2>
 
 <p align="center">
+Opening Oracle Virtual Box Manager: <br/>
+<img src="https://i.imgur.com/VxXI8fB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Kali Linux: <br/>
+<img src="https://i.imgur.com/1mrL5Nc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 Ping Scan: Check if system is alive: <br/>
 <img src="https://i.imgur.com/1YcepJX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
