@@ -14,7 +14,7 @@ The project covers port scanning, enumeration,application idetification, vulnera
 
 <h2>Environments Used </h2>
 
-- <b>Oracle vitual Box</b> (21H2)
+- <b>Oracle vitual Box</b> 
 
 <h2>Program walk-through: Reconnaissance(Phase 1):</h2>
 
@@ -57,7 +57,10 @@ Firewall Action is Allow port 7070 is reachable from the kali machine:  <br/>
 <p align="center">
 Application Version:  <br/>
 <img src="https://i.imgur.com/A1BusET.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
+<br />
+<br />
+Vulnerability Checking:  <br/>
+<img src="https://i.imgur.com/VcS4cvJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 
