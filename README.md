@@ -71,7 +71,10 @@ Vulnerability Checking:  <br/>
 <img src="https://i.imgur.com/VcS4cvJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
+<h2>Program walk-through:Findings:</h2>
 
+<p align="center">
+The findings showed that the target system was reachable, had an accessible service running on port 7070, and had a firewall rule allowing communication to that port. The enumeration process provided useful information about the service, including its application name and version. The final vulnerability checking stage was then used to determine whether the identified application contained any known security weaknesses. These findings demonstrate how reconnaissance, enumeration, and application identification can be used together to understand a target system and identify potential security risks in a controlled environment.  <br/>
 
 
 
